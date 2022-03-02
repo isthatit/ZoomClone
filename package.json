@@ -1,7 +1,7 @@
 {
   "name": "zoom",
   "version": "1.0.0",
-  "description": "Zoom Clone using WebRTC and Websockets",
+  "description": "Zoom Clone using NodeJS, WebRTC and Websockets",
   "license": "MIT",
   "scripts": {
     "dev": "nodemon"
